@@ -6,7 +6,6 @@ One function per operation, in order.
 """
 import math
 
-<<<<<<< HEAD
 def square_root(a):
     if a < 0:
         raise ValueError
@@ -16,8 +15,6 @@ def square_root(a):
 def hypotenuse(a, b):
     return math.hypot(a, b)
 
-=======
->>>>>>> c81b1d990e6b301b5c4a5075ab52b9662a9bb90a
 def add(a, b):
     return a + b
 
