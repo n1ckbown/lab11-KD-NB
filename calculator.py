@@ -5,9 +5,6 @@ calculator.py
 One function per operation, in order.
 """
 import math
-# First example
-def add(a, b): 
-    return a + b
 
 def square_root(a):
     if a < 0:
